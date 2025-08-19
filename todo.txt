@@ -1,0 +1,11 @@
+Step 1
+Integrate the OpenAI router.
+
+Step 2
+Develop the 3-4 model.
+
+Step 3
+Create a simpler, cleaner UI.
+
+Step 4
+Build the project.
