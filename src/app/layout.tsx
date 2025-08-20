@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI Festa",
+  title: "AI Festa-An multi LLM platform for everyone.",
   description: "An multi LLM platform where the user can interact with various AI models. Generally this models are free and paid for the paid you need to put you own api keys to work faster. This is just the GPT wrapper build on the openrouter.",
 };
 
